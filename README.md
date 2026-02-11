@@ -21,16 +21,13 @@ Meu sonho era trabalhar com tecnologia, foi ao descobrir a área de Testes de So
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
- <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
 
 </div>
 
 ## Próximos Estudos
-Foco total em automação de testes e ferramentas para realizar testes automatizados como SQL, Selenium e JavaScript.
+A curto prazo: Foco total em automação de testes e ferramentas para realizar testes automatizados como SQL, Selenium e JavaScript
+
+A longo prazo: Gith, Github e Certificação GitHub Foundations 
 
 
 ## Vamos trabalhar juntos?
