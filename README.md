@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Daniela Lima
 
 **`QA Tester Engineer`**
-(EN)
 
 Hello, my name is Daniela Lima. I’m Brazilian, living in Portugal for 2 years, and I’m a technology student, passionate about the Quality field. I have previous experience as a QA, having worked as a Quality Analyst at Concentrix, which gave me a solid foundation in QA best practices, such as data analysis, reviews and feedback, and working effectively within a Squad. It was a unique experience that I carry in my heart. You can also see more about my experiences on my "[Linkedin](https://www.linkedin.com/in/daniela-lima-328b23300/?locale=pt)" My dream was to work in technology, and it was when I discovered Software Testing that I became certain about where I wanted to be. Bringing quality into processes, thinking strategically to ensure customer satisfaction, and still being in the tech field it was the perfect match for me! I started my QA studies at TripleTen, and it has been a journey of daily learning. I have already developed some projects that helped me put into practice everything covered in the Sprints. I learned to work with bug reporting, bug tracking, and manual testing with JIRA, API testing with Postman, Design testing with Figma, test documentation, and mobile testing. With my QA experience combined with the teachings from TripleTen, I have developed an analytical approach to ensure excellence in my deliveries. You can see more about my projects here!
 
