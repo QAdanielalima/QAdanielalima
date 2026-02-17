@@ -25,6 +25,13 @@ Meu sonho era trabalhar com tecnologia, foi ao descobrir a área de Testes de So
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img 
+    alt="Python" 
+    title="Python"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 </div>
 
