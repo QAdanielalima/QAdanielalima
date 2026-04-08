@@ -3,14 +3,29 @@
 **`QA Tester Engineer`**
 
 Olá! Eu sou a Daniela Lima, profissional de Qualidade de Software com experiência como Quality Control Analyst, o que me proporcionou uma base sólida em boas práticas de QA, incluindo análise de dados, revisões, feedbacks, gestão de tempo e atuação em squads ágeis.
-Tenho como objetivo promover qualidade ao longo de todo o processo de desenvolvimento, atuando de forma colaborativa com o time, sendo o elo entre Produto e Desenvolvimento. Busco contribuir na definição de critérios de qualidade, questionar requisitos desde o início e garantir que as entregas gerem valor real para o usuário final.
+
+Tenho como objetivo promover qualidade ao longo de todo o processo de desenvolvimento, atuando de forma colaborativa com o time, sendo o elo entre Produto e Desenvolvimento.
+Busco contribuir na definição de critérios de qualidade, questionar requisitos desde o início e garantir que as entregas gerem valor real para o usuário final.
 Você pode saber mais sobre minha trajetória no meu "[Linkedin](https://www.linkedin.com/in/daniela-lima-328b23300/?locale=pt)".
 
-Aqui você também encontrará alguns dos meus projetos, onde aplico na prática conceitos de qualidade, testes e melhoria contínua: "[here] (https://github.com/QAdanielalima?tab=repositories)"!
+Aqui você também encontrará alguns dos meus projetos, onde aplico na prática conceitos de qualidade, testes e melhoria contínua: "[here](https://github.com/QAdanielalima?tab=repositories)"!
+
+## 📊 Mentalidade de Qualidade
+- Foco em prevenção de bugs
+- Análise de risco
+- Qualidade orientada ao usuário
+- Colaboração com times multidisciplinares
+
+## 🧪 Skills & Tools
+- Testes manuais e exploratórios
+- Testes automatizados: Python, Selenium
+- API Testing: Postman
+- Scrum/Kanban
+- CI/CD
+- Gith and Github
+- SQL
 
 
-
- ### Tools
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
@@ -40,10 +55,9 @@ Aqui você também encontrará alguns dos meus projetos, onde aplico na prática
 
 </div>
 
-## Next Steps
-**Short-term:** Full focus on test automation and tools for automated testing such as SQL, Selenium, and JavaScript.
+## Proximos passos:
+**Short-term:** ISTQB Certification.
 
-**Long-term:** Git, GitHub, and GitHub Foundations, ISTQB Certification.
 
 **`Shall we work together?`**
 
